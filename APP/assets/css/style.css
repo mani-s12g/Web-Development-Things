@@ -1,0 +1,80 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
+
+
+/* selectors */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom right, cyan, blue);
+    transition: ease-in-out 0.5s;
+}
+
+body h3 {
+    padding-top: 10px;
+    height: 1vh;
+    color:white;
+    text-align: center;
+}
+
+.todoListArea {
+    width: 40%;
+    margin: 70px auto;
+    padding: 20px;
+    height: 74vh;
+    min-width: 481px;
+}
+
+.todos {
+    height: 65vh;
+    margin-top: 20px;
+    overflow-y: auto;
+}
+
+.textInput{
+    width: 80%;
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    height: 20px;
+}
+
+.formButton {
+    width: 17%;
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    transition: ease-in-out 0.5s;
+    padding: 5px;
+}
+
+.formButton:hover {
+    background-color: cyan;
+    transition: ease-in-out 0.5s;
+}
+
+.todos {
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 3px;
+    width: 95.25%;
+    margin-bottom: 10px;
+}
+
+.todoHeading {
+    width: 93%;
+}
+
+.close {
+    float: right;
+    color: #008a8a;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);;
+}
+
+.close:hover{
+    color: #00e3e3;
+}
