@@ -1,6 +1,4 @@
 # Web-Development-Things
-Here i upload whatever i learned like it may be small project or big project as i progress with my studies.
-
 To-Do Application
 
 Descrition of App:
