@@ -1,7 +1,7 @@
 # Web-Development-Things
 To-Do Application
 
-Descrition of App:
+Description of App:
 
 1. This is todo application is done using Basic Web development technologies like HTML, CSS and Javascript
 2. Its basically a to-do list which keeps record of all of your activities and routines tasks which you have planned
