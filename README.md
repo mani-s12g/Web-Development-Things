@@ -3,7 +3,7 @@ To-Do Application
 
 Description of App:
 
-1. This is todo application is done using Basic Web development technologies like HTML, CSS and Javascript
+1. todo application is done using Basic Web development technologies like HTML, CSS and Javascript
 2. Its basically a to-do list which keeps record of all of your activities and routines tasks which you have planned
 3. Its a simple basic application of To do list
 4. HTML is used for basically to write the content of page like what things one need to show to the user, like in this case very simple to 
